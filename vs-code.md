@@ -16,6 +16,8 @@
 
 - **`Ctrl + 1/2/3`** -> **Focus editor group**
 
+- **`Ctrl + Space`** -> **Trigger Suggestions**
+
 <hr>
 
 ## ✨ Multi-Line Cursor for fast productivity
