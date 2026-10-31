@@ -18,6 +18,8 @@
 
 - **`Ctrl + Space`** -> **Trigger Suggestions**
 
+- **`Shift + Alt + F`** -> **Format Document**
+
 <hr>
 
 ## ✨ Multi-Line Cursor for fast productivity
