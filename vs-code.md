@@ -20,6 +20,8 @@
 
 - **`Shift + Alt + F`** -> **Format Document**
 
+- **`Ctrl + Shift + E`** -> **Shows Explorer**
+
 <hr>
 
 ## ✨ Multi-Line Cursor for fast productivity
